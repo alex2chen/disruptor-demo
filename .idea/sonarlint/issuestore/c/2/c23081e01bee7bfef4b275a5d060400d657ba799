@@ -1,0 +1,7 @@
+
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Àø’ìúÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(Ş»Êˆ
+Osquid:S1161":Add the "@Override" annotation above this method signature(ØéŸª
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬‹†üÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(¬‹†üÿÿÿÿ
+\squid:CallToDeprecatedMethod"1Remove this use of "Disruptor"; it is deprecated.(¬‹†üÿÿÿÿ
