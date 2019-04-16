@@ -1,9 +1,3 @@
-https://github.com/zl736732419/disruptor-study
-
-https://github.com/mikeb01/disruptor-benchmarks
-
-https://github.com/anair-it/disruptor-spring-manager
-
 ### 1.核心类和接口
     EventHandler：用户提供具体的实现，在里面实现事件的处理逻辑。
     Sequence：代表事件序号或一个指向缓存某个位置的序号。
@@ -55,3 +49,6 @@ batchParseProcessors[i] = new BatchEventProcessor (disruptorMsgBuffer,sequenceBa
 
 #### 测试用例
     该项目模拟学生考试过程，从做选择题、填空题、解答题等题型，这里的答题顺序为选择题->填空题->解答题->考试结束
+    
+
+[Spring managed LMAX Disruptor](https://github.com/anair-it/disruptor-spring-manager)    
